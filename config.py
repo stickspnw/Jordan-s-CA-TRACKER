@@ -1,2 +1,1 @@
-BOT_TOKEN = "7727352730"
-RPC_URL = "https://api.mainnet-beta.solana.com"
+BOT_TOKEN = "7727352730:AAHZ85mZHD3CMiFV-SKT9hariuk9M2V-FqM"
